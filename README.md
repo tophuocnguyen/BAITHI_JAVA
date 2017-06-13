@@ -1,6 +1,6 @@
 ### Bài thi môn lập trình Java
 ### Họ Tên: Tô Phước Nguyên
-### Mã số sv: 56131368 
+### Mã số sv: 56131193 
 ### Lớp: 56TH1
 ### Giáo viên hướng dẫn: Mai Cường Thọ
 # ỨNG DỤNG  GAME BẦU CUA TÔM CÁ
